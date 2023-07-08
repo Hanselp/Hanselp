@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Este es mi repositorio de GitHub, donde día a día me dedico a fortalecer mis habilidades como desarrollador Backend en Java. Estoy comprometido a seguir aprendiendo y capacitándome de manera constante para continuar mi crecimiento profesional. Estoy abierto a nuevas oportunidades de aprendizaje que me permitan seguir ampliando mis conocimientos y seguir evolucionando en mi carrera.
 <!--
 **Hanselp/Hanselp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
